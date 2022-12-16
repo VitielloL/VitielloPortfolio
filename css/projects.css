@@ -202,6 +202,10 @@ body {
 }
 
 @media screen and (max-width: 600px) {
+    .project-container {
+        width: 100%;
+    }
+    
     .page-projects {
         grid-template-columns: 1fr;
     }
