@@ -79,7 +79,7 @@ body {
 
 .project-container {
     width: 22rem;
-    height: 25rem;
+    height: 27rem;
     background: var(--white);
     display: flex;
     flex-direction: column;
@@ -128,7 +128,7 @@ body {
 
 .project-row-buttons {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 
 .project-content .project-link {
